@@ -1,4 +1,4 @@
-# Estatistica - Teste de Hpóteses
+# Estatistica - Teste de Hipóteses
 Execução de testes de hipóteses em dados fictícios - Testes: t-student, ANOVA, KS
 
 ## Considerando a base de dados experimento_test_ab.csv responda as questões abaixo:
